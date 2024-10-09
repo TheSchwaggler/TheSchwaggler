@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheSchwaggler coo coo chachoo
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... java, git, azure
-- 💞️ I’m looking to collaborate on ... nothing... I prefer to learn alone
+- 👀 I’m retired!!!  now I am free to learn
+- 🌱 I’m currently learning ... swift, AI, learning to live again!
+- 💞️ I’m looking to collaborate on ... huge amazing ideas!
 - 📫 How to reach me ... not by email, i have rules that delete nearly everything, sorry.
 
 <!---
