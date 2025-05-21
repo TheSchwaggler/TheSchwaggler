@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSchwaggler coo coo chachoo
+- 👋 Hi, I’m @TheSchwaggler
 - 👀 I’m retired!!!  now I am free to learn
 - 🌱 I’m currently learning ... swift, AI, learning to live again!
 - 💞️ I’m looking to collaborate on ... huge amazing ideas!
